@@ -1,12 +1,14 @@
 # Styling with _Emotion_
 
-[Logo](assets/image/logo.png)
+![Logo](assets/image/logo.png)
 
 ---
 
 > “duplication is far cheaper than the wrong abstraction”
 >
 > -- <cite>Sandi Metz</cite>
+
+---
 
 ## Why did we choose Redux?
 
