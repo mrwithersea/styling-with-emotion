@@ -10,12 +10,12 @@
 
 ---
 
-## Why did we choose Redux?
+## What are we trying to solve?
 
-- Abstraction of our state from our UI |
-- Predictable behaviour |
-- Immutability |
-- Functional purity |
+- making change predictable |
+- implicit dependencies |
+- lack of scoping |
+- implicit coupling between css and html |
 
 Note:
 - Pushing state to the edges of our system
